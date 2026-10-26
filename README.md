@@ -176,8 +176,6 @@ High-risk employees leave **6.6× more often** than low-risk ones (55.8% vs 8.5%
 ```
 ├── HR - ATTRITION.pbix          # Power BI report
 ├── HR-Employee-Attrition.csv    # source data
-├── theme/
-│   └── HR_Red_Theme.json        # custom report theme
 ├── images/                      # report screenshots
 │   ├── Overview.png
 │   ├── Pay&Overtime.png
@@ -194,3 +192,4 @@ High-risk employees leave **6.6× more often** than low-risk ones (55.8% vs 8.5%
 
 **George Tziouvelis**
 [LinkedIn](https://www.linkedin.com/in/george-tziouvelis) · [GitHub](https://github.com/tziougeo)
+
