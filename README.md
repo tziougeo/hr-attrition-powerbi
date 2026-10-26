@@ -174,17 +174,19 @@ High-risk employees leave **6.6× more often** than low-risk ones (55.8% vs 8.5%
 ## Repository structure
 
 ```
-├── HR_Attrition_Analysis.pbix
-├── HR-Employee-Attrition.csv
+├── HR - ATTRITION.pbix          # Power BI report
+├── HR-Employee-Attrition.csv    # source data
 ├── theme/
-│   └── HR_Red_Theme.json
-├── screenshots/
-│   ├── overview.png
-│   ├── pay_overtime.png
-│   ├── satisfaction.png
-│   └── risk_profile.png
+│   └── HR_Red_Theme.json        # custom report theme
+├── images/                      # report screenshots
+│   ├── Overview.png
+│   ├── Pay&Overtime.png
+│   ├── Satisfaction.png
+│   └── Risk_Profile.png
 └── README.md
 ```
+
+**How to open:** download `HR - ATTRITION.pbix` and open it in [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) (free). If the data source path doesn't match, go to *Transform data → Data source settings → Change source* and point it to `HR-Employee-Attrition.csv`.
 
 ---
 
