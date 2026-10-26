@@ -116,8 +116,8 @@ Synced slicers (Gender, Age Group, Overtime) and a page navigator sit in a sideb
 
 | | |
 |---|---|
-| ![Pay & Overtime](images/Pay&Overtime.png) | ![Satisfaction](images/Satisfaction.png) |
-| ![Risk Profile](images/RiskProfile.png) | |
+| ![Pay & Overtime](images/Pay & Overtime.png) | ![Satisfaction](images/Satisfaction.png) |
+| ![Risk Profile](images/Risk Profile.png) | |
 
 ---
 
